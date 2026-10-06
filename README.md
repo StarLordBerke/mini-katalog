@@ -15,6 +15,17 @@ Harici hiçbir ek paket (dependency) kullanılmadan, tamamen çekirdek Flutter b
 
 Dinamik JSON veri ayrıştırması, akıcı Hero geçiş animasyonları, global sepet yönetimi ve güvenli ödeme modalı ile hem tasarımı hem de mimari yapısıyla güçlü bir mobil portfolyo projesidir.
 
+## 📸 Uygulama Ekran Görüntüleri
+
+<div align="center">
+  <img src="https://github.com/StarLordBerke/mini-katalog/blob/main/img/Resim1.png" width="250" alt="Discover Page">
+  <img src="https://github.com/StarLordBerke/mini-katalog/blob/main/img/Resim2.png" width="250" alt="Product Detail">
+  <img src="https://github.com/StarLordBerke/mini-katalog/blob/main/img/Resim3.png" width="250" alt="Cart & Checkout">
+  <img src="https://github.com/StarLordBerke/mini-katalog/blob/main/img/Resim4.png" width="250" alt="Discover Page">
+  <img src="https://github.com/StarLordBerke/mini-katalog/blob/main/img/Resim5.png" width="250" alt="Product Detail">
+  <img src="https://github.com/StarLordBerke/mini-katalog/blob/main/img/Resim6.png" width="250" alt="Cart & Checkout">
+</div>
+
 ---
 
 ## 🚀 Öne Çıkan Özellikler
