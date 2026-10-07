@@ -1,7 +1,7 @@
 // ==========================================
 // 1. KÜTÜPHANELERİM 
 // ==========================================
-// 'material.dart': Figma'da çizdiğim UI bileşenlerini (Buton, Grid, Text) DOM'a basmak için Flutter'ın çekirdek UI kitini çağırıyorum.
+// 'material.dart': UI bileşenlerini (Buton, Grid, Text) DOM'a basmak için Flutter'ın çekirdek UI kitini çağırıyorum.
 import 'package:flutter/material.dart';
 
 // 'dart:convert': API'den string olarak gelecek ham JSON datasını parse edip (JSON.parse) JavaScript objesine çevirebilmek için eklediğim kütüphane.
